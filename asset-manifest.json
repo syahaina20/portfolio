@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d13d29a0.chunk.css",
+    "main.js": "/portfolio/static/js/main.9fd7c5a3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9fd7c5a3.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.cea968b2.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.cea968b2.js.map",
+    "static/css/2.89f067aa.chunk.css": "/portfolio/static/css/2.89f067aa.chunk.css",
+    "static/js/2.90584091.chunk.js": "/portfolio/static/js/2.90584091.chunk.js",
+    "static/js/2.90584091.chunk.js.map": "/portfolio/static/js/2.90584091.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.588bb9c2d77b66b187018f570c9148a4.js": "/portfolio/precache-manifest.588bb9c2d77b66b187018f570c9148a4.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/portfolio/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.d13d29a0.chunk.css.map": "/portfolio/static/css/main.d13d29a0.chunk.css.map",
+    "static/js/2.90584091.chunk.js.LICENSE.txt": "/portfolio/static/js/2.90584091.chunk.js.LICENSE.txt",
+    "static/media/flowers.png": "/portfolio/static/media/flowers.143dbb6e.png",
+    "static/media/hogwarts.png": "/portfolio/static/media/hogwarts.e31c6516.png",
+    "static/media/strangerthings.png": "/portfolio/static/media/strangerthings.d4517b2e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cea968b2.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.90584091.chunk.js",
+    "static/css/main.d13d29a0.chunk.css",
+    "static/js/main.9fd7c5a3.chunk.js"
+  ]
+}
